@@ -17,8 +17,8 @@ My studies have provided deep insights into supporting children with special nee
 9. 통계청 통계교육원 청소년 실용통계교육 통계교육 지원단(2024.05-2024.12)
 
 ### 📫 If you want to contact me, please leave me a message!🥰
-- Email:
-- Blog/Youtube: 
+- Email: hawon0302@pusan.ac.kr
+- Blog/Youtube: https://www.youtube.com/@namhawon
 
 Thank you for stopping by! Have a great day! 👋
 
