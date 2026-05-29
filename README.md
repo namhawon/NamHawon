@@ -2,11 +2,15 @@
 **Good day! My name is *Hawon Nam*,
 and I am deeply interested in Human Factors & Aging!**
 
-📚2026.03-2028.02  M.A Major in Engineering Psychology, Pusan National University, Korea
-📚2021.03-2026.02  B.A. Major in Child Development and Family Studies & Psychology, Pusan National University, Korea
-📚2017.03-2020.02  Major in English and Chinese, Busan International Foreign Language High school, Korea 
+- 2026.03-2028.02  M.A Major in Engineering Psychology, Pusan National University, Korea
+- 2021.03-2026.02  B.A. Major in Child Development and Family Studies & Psychology, Pusan National University, Korea
+- 2017.03-2020.02  Major in English and Chinese, Busan International Foreign Language High school, Korea 
 
-My studies have provided deep insights into supporting the elderly. This background has sparked my interest in human–AI interaction, particularly in robotics and autonomous driving, focusing on how these technologies can assist those who feel socially and emotionally isolated. I believe that AI and robotic technologies have the potential to provide emotional support and help reintegrate these individuals into society.
+**My studies in psychology and gerontology have given me insights into how to support older adults in everyday life!**
+I see designing technologies for older adults as a way to build a more caring and considerate future.
+I now research human–AI interaction and how humans and AI can work together, especially in robotics and autonomous driving.
+There are many people in the world who feel socially and emotionally isolated, and I hope my work can help support them.
+I believe my studies can contribute to providing meaningful emotional support and helping these individuals reconnect with society.
 
 ### 🔍 Research Interests
 - Human Factors & Engineering Psychology
